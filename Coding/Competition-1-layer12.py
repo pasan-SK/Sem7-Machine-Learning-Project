@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np          # For mathematical calculations
 import matplotlib.pyplot as plt  # For plotting graphs
 # import seaborn as sns
-%matplotlib inline
+# %matplotlib inline
 
 train_csv_file_path = "D:\\ACA semester 7\\CS4622 - Machine Learning\\ML-Project\\Data\\layer12\\train.csv"
 valid_csv_file_path = "D:\\ACA semester 7\\CS4622 - Machine Learning\\ML-Project\\Data\\layer12\\valid.csv"
